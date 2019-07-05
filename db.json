@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "firstname": "Roger", "lastname": "Smith", "birthplace": "New York" },
+    { "id": 2, "firstname": "Robert", "lastname": "Brian", "birthplace": "Boston" },
+    { "id": 3, "firstname": "Roland", "lastname": "John", "birthplace": "Toronto" },
+    { "id": 4, "firstname": "Serge", "lastname": "Bob", "birthplace": "Montreal" },
+    { "id": 5, "firstname": "Tra", "lastname": "Volta", "birthplace": "Quebec" }
+  ]
+}
